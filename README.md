@@ -2,4 +2,4 @@
 
 This is a quality pretend website
 
-stop updating me, please
+start updating me, please
